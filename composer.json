@@ -1,0 +1,16 @@
+{
+    "name": "usuario/healthypetsolutions",
+    "autoload": {
+        "psr-4": {
+            "Usuario\\Healthypetsolutions\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "julieta"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.1"
+    }
+}
